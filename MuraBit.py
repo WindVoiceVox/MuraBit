@@ -5,7 +5,7 @@ import time
 ########################################################
 # Global Settings
 ########################################################
-MESSAGE_WAIT = 0.1
+MESSAGE_WAIT = 0.2
 MIN_POPULATION =  5
 MAX_POPULATION = 30
 
